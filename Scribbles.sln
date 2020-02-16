@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scribbles", "Scribbles\Scribbles.csproj", "{4768AD26-0983-4FD5-89EA-7B54EBC45AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctlPostExcerptLib", "..\ctlPostExcerptLib\ctlPostExcerptLib\ctlPostExcerptLib.csproj", "{B64E77BE-D8F3-4FC6-9316-7CCB58565A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4768AD26-0983-4FD5-89EA-7B54EBC45AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4768AD26-0983-4FD5-89EA-7B54EBC45AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4768AD26-0983-4FD5-89EA-7B54EBC45AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4768AD26-0983-4FD5-89EA-7B54EBC45AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64E77BE-D8F3-4FC6-9316-7CCB58565A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64E77BE-D8F3-4FC6-9316-7CCB58565A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64E77BE-D8F3-4FC6-9316-7CCB58565A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64E77BE-D8F3-4FC6-9316-7CCB58565A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEA29D4-E1A7-4A05-BF32-9F9AF533E3BA}
+	EndGlobalSection
+EndGlobal
