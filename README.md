@@ -31,7 +31,7 @@ info becomes its properties.
 
 *Scribbles - New Post*
 
-New posts are entered into the editor. On clicking "Save" the post objeect and all it's properties
+New posts are entered into the editor. On clicking "Save" the post object and all it's properties
 are saved as strings to a delimeted file on the hard drive.
 
 ---
